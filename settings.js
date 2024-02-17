@@ -18,9 +18,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['919968778724']
-global.premium = ['919968778724']
-global.ownernomer = '919968778724'
+global.owner = ['254756574562']
+global.premium = ['254756574562']
+global.ownernomer = '254756574562'
 global.ownername = '𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
 global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹 𝑺𝑬𝑹 𝑩𝑶𝑻'
 global.caption = 'ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ'
